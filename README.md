@@ -1,5 +1,5 @@
 # Scrape-and-Sing
-Written in Python.
+Weekend project written in Python.
 
 Scrapes lyrics.com for lyrics using the Scrapy API and "sings" it using the Pyttsx3 voice module.
 
